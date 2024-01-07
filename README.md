@@ -1,5 +1,7 @@
-# Harvard CS50 Exercises (Games)
+# Pong
 
-My exercises made for my harvard CS50 course in 2024.
+You can see the gameplay demonstration [on this video at my YouTube channel 🎮🕹️](https://www.youtube.com/watch?v=yUsJUBjlbQQ).
 
-Please, check the other branches, each one represents one exercise (game). I hope you like it.
+This is a simple Pong game. The only implementation I did was the right paddle to move without human interaction, this game was part from a course that I did.
+
+![image](https://github.com/me50/monambike/assets/35270174/011d7dff-2349-4957-9b32-91385cb09daf)
